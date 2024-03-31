@@ -3,7 +3,7 @@
 -👀 I’m interested in backend web development, problem-solving, and learning new technologies.
 -🌱 I’m currently learning Java and exploring different fields within backend development.
 -💞️ I’m looking to collaborate on open-source projects related to web development or any interesting coding challenges.
--📫 How to reach me: You can reach me via email at [tuemail@example.com] or connect with me on LinkedIn [linkedin.com/in/tusntiago0505].
+-📫 How to reach me: You can reach me via email at santiagoarm2004@gmail.com
 -😄 Pronouns: He/him
 -⚡ Fun fact: I enjoy recreating classic games in my free time and experimenting with different programming languages.
 
